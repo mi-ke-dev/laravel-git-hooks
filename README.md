@@ -51,9 +51,6 @@ vendor/bin/captainhook install
 
 	Install 'pre-commit' hook? [Y,n] y			# 👈
 
-	The 'pre-commit' hook exists! Overwrite? [y,n] y	# 👈
-	'pre-commit' hook installed successfully
-
 	Install 'prepare-commit-msg' hook? [Y,n] y		# 👈
 	'prepare-commit-msg' hook installed successfully
 
