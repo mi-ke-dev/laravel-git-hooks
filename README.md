@@ -44,17 +44,17 @@ Run `vendor/bin/captainhook install`
 ```
 vendor/bin/captainhook install
 
-	Install 'commit-msg' hook? [Y,n] y					# 👈
+	Install 'commit-msg' hook? [Y,n] y			# 👈
 	'commit-msg' hook installed successfully
 
 	Install 'pre-push' hook? [Y,n] n
 
-	Install 'pre-commit' hook? [Y,n] y					# 👈
+	Install 'pre-commit' hook? [Y,n] y			# 👈
 
 	The 'pre-commit' hook exists! Overwrite? [y,n] y	# 👈
 	'pre-commit' hook installed successfully
 
-	Install 'prepare-commit-msg' hook? [Y,n] y			# 👈
+	Install 'prepare-commit-msg' hook? [Y,n] y		# 👈
 	'prepare-commit-msg' hook installed successfully
 
 	Install 'post-commit' hook? [Y,n] n
