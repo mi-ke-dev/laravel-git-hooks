@@ -69,4 +69,4 @@ You can prepare a simple commit message via `git commit -m "type(scope): what wa
 
 If you need to prepare a commit message that is more elaborate, you can use the helper:
 
-``./vendor/bin/conventional-commits prepare`
+`./vendor/bin/conventional-commits prepare`
